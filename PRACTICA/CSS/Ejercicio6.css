@@ -12,9 +12,17 @@ header {
 }
 section {
   background-color: #80d8c3;
+  margin: 10px;
 }
 footer {
   background-color: #ffd66b;
   color: black;
   text-align: center;
+}
+
+.section1 {
+  background-color: aqua;
+}
+.section2 {
+  background-color: aquamarine;
 }
