@@ -33,6 +33,59 @@ section {
   background-color: #8CCDEB;
   margin: 10px;
 }
+
+.container{
+ display: flex;
+ justify-content: center;
+}
+.card1{
+
+margin: 5%;
+}
+
+.card2{
+margin: 5%;
+}
+
+.card3{
+margin: 5%;
+}
+
+button{
+  border-radius: 10px;
+ width: 250px;
+  height: 100px;
+
+}
+
+.button1{
+  background-color: #15da15;
+ 
+
+}
+.button1:hover{
+background-color: gold;
+}
+
+.button2{
+  background-color: #cedb10;
+
+}
+
+.button2:hover{
+  background-color: fuchsia;
+  
+}
+
+.button3{
+  background-color: fuchsia;
+
+}
+
+.button3:hover{
+  background-color: rgb(230, 7, 7);
+  
+}
 footer {
   background-color: #FFE3A9;
   color: rgb(7, 15, 1);
@@ -41,6 +94,7 @@ footer {
   font-size: 15px;
 
 }
+
 footer p{
    text-align: right;
    padding: 0;
