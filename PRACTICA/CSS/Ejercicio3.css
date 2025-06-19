@@ -1,0 +1,24 @@
+span {
+  display: block;
+  border: 3px solid;
+}
+.span1 {
+  background-color: greenyellow;
+  color: aqua;
+  padding: 5px 20px;
+  border-color: gold;
+}
+
+.span2 {
+  background-color: yellow;
+  color: blue;
+  padding: 10px 10px;
+   border-color: paleturquoise;
+}
+
+.span3 {
+  background-color: goldenrod;
+  color: blueviolet;
+  padding: 20px 5px;
+   border-color: red;
+}
