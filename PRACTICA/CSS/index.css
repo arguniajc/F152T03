@@ -25,6 +25,15 @@ main {
   flex: 1;
 }
 
+.navegacion {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007BFF; 
+  color: white;
+  border-radius: 5px;
+  margin: 1rem 0;
+}
+
 
 .container {
   background: linear-gradient(135deg, #f57979, #04d40e);
